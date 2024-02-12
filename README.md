@@ -20,11 +20,12 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3135tinbvjufkfbvm7zpqpdbbxqm)
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=3135tinbvjufkfbvm7zpqpdbbxqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</div>
 
 ---
 
