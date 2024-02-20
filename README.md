@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like Laravel, Angular, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 🔮 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I like to play football ⚽ & go to the gym 💪🏼.
