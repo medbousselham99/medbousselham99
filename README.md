@@ -14,11 +14,8 @@ Currently focused on **Java Spring Boot, Angular, React and AI-driven systems**.
 - 🤖 Interested in **AI integration in web systems**
 - 🎯 Goal: Become a **high-level Software Engineer & AI Developer**
 
----
-
 ### Languages and Tools 🛠 
 
-</br>
 
 ## ⚙️ Tech Stack
 
@@ -40,27 +37,18 @@ Currently focused on **Java Spring Boot, Angular, React and AI-driven systems**.
 ### 🛠️ Tools & Others
 - Git & GitHub
 - Postman
-- Figma
 - WordPress
 
-</br>
+---
+
+## ⚡ Fun Fact
+- I enjoy football ⚽ and fitness 💪 — discipline in sport reflects in my code.
 
 ---
 
-### Spotify Playing 🎧
+## 🌐 Connect With Me
 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=3135tinbvjufkfbvm7zpqpdbbxqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-bousselham-87107b1a1  
+- 📸 Instagram: https://www.instagram.com/simooo__09  
 
----
 
-### Connect with me 📝
-<br>
-
-<a href="https://www.linkedin.com/in/mohamed-bousselham-87107b1a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/simooo__09" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/simooo09" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/3135tinbvjufkfbvm7zpqpdbbxqm" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-  
-<br/>
