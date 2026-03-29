@@ -14,8 +14,7 @@ Currently focused on **Java Spring Boot, Angular, React and AI-driven systems**.
 - 🤖 Interested in **AI integration in web systems**
 - 🎯 Goal: Become a **high-level Software Engineer & AI Developer**
 
-### Languages and Tools 🛠 
-
+## 🛠 Languages and Tools  
 
 ## ⚙️ Tech Stack
 
