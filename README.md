@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/medbousselham99" width="120" style="border-radius:50%;" alt="Mohamed Bousselham"/>
-
 # Hi there 👋, I'm **Bousselham Mohamed**
 
 ### Full-Stack Developer | Data Science Engineer
