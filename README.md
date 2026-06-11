@@ -6,10 +6,18 @@
 
 *Passionate about building scalable web applications and integrating intelligent solutions using modern technologies.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bousselham-87107b1a1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simooo__09)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medbousselham99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://bousselham-mohamed.dev)
+<a href="https://www.linkedin.com/in/mohamed-bousselham-87107b1a1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/simooo__09" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:medbousselham99@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://bousselham-mohamed.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio" />
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=medbousselham99&color=blueviolet&style=flat-square)
 
